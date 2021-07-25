@@ -1,2 +1,2 @@
 # JavaSE12
-Java Practice Questions and Solutions
+Topic wise Java Programs for practice
